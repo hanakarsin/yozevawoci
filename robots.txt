@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://jomemudoyi.vercel.app/sitemap.xml
